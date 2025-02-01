@@ -40,6 +40,8 @@ console.log(
     },
   ])
 );
+
+console.log(' ');
 // [
 //   {
 //     name: "Ross Vazquez",
